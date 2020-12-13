@@ -16,12 +16,13 @@ Regularly updated.
 Using an arduino, we send the card identification number to a webserver, which searches for the user in a mysql database.
 The status of the user is changed to online and his uptime is counted.
 
-## Hardware: 
+### Hardware: 
 - Arduino
 - Raspberry pi
-- Rfid module
+- RFID module
 - Wood
-## Code:
+- TFT screen & breakout
+### Code:
 [Arduino code](https://github.com/EmperorKayobi/portfolio/blob/main/code/terminal.ino)
 
 # AI powered Reflow Oven
