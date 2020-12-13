@@ -3,6 +3,7 @@ A list of all my project.
 Regularly updated.
  # Overview
 - [Makerspace Terminal](https://github.com/EmperorKayobi/portfolio#Makerspace Terminal)
+- [AI powered Reflow Oven](https://github.com/EmperorKayobi/portfolio#AI powered Reflow Oven)
 
 # News
 ```
@@ -20,7 +21,7 @@ Regularly updated.
 ## Code:
 ![](https://github.com/EmperorKayobi/portfolio/blob/main/code/terminal.ino)
 
-# AI powered Reflow Oven
+# AI powered Reflow Oven
 References:
 
 
