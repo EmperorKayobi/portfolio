@@ -17,7 +17,7 @@ Regularly updated.
 - Raspberry pi
 - Rfid module
 # Code:
-![](https://github.com/EmperorKayobi/portfolio/blob/main/code/terminal.ino]
+![](https://github.com/EmperorKayobi/portfolio/blob/main/code/terminal.ino)
 
 # AI powered Reflow Oven
 References:
