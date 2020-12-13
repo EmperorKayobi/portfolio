@@ -12,7 +12,7 @@ Regularly updated.
 ```
 # Makerspace Terminal
 ![](https://github.com/EmperorKayobi/portfolio/blob/main/images/borne.jpg) 
-## How it works:
+## Description:
 Using an arduino, we send the card identification number to a webserver, which searches for the user in a mysql database.
 The status of the user is changed to online and his uptime is counted. The goal is remplace the paper system, which is too slow.
 
@@ -27,7 +27,7 @@ The status of the user is changed to online and his uptime is counted. The goal 
 
 # Alpha Shield
 ![](https://github.com/EmperorKayobi/portfolio/blob/main/images/AlphaShield.PNG)
-## How it works:
+## Description:
 Alpha Shield is a IOT gagdet planned to be available on kickstarter in april 2021 due to legal reasons.
 
 # AI powered Reflow Oven
