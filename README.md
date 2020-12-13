@@ -4,7 +4,7 @@ Regularly updated.
  # Overview
 - [Makerspace Terminal](https://github.com/EmperorKayobi/portfolio#makerspace-terminal)
 - [Alpha Shield](https://github.com/EmperorKayobi/portfolio#alpha-shield)
-- [AI powered Reflow Oven](https://github.com/EmperorKayobi/portfolio#ai-powered-reflow-oven)
+- [Reflow Oven](https://github.com/EmperorKayobi/portfolio#reflow-oven)
 
 # News
 ```
@@ -31,7 +31,7 @@ The status of the user is changed to online and his uptime is counted. The goal 
 ## Description:
 Alpha Shield is a IOT gagdet planned to be available on kickstarter in april 2021 due to legal reasons.
 
-# AI powered Reflow Oven
+# Reflow Oven
 References: 
 - https://www.whizoo.com/reflowoven
 - https://www.instructables.com/Making-A-SMD-Reflow-Oven/
