@@ -9,5 +9,5 @@ Regularly updated.
  13/12/20
  Started a new AI powered PCB refolw oven project. More details soon.
 ```
-# Log-In Terminal
+#Makerspace Terminal
 
