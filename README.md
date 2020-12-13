@@ -25,6 +25,8 @@ The status of the user is changed to online and his uptime is counted.
 [Arduino code](https://github.com/EmperorKayobi/portfolio/blob/main/code/terminal.ino)
 
 # AI powered Reflow Oven
-References:
+References: 
+- https://www.whizoo.com/reflowoven
+- https://www.instructables.com/Making-A-SMD-Reflow-Oven/
 
 
