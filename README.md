@@ -22,7 +22,7 @@ The status of the user is changed to online and his uptime is counted.
 - Rfid module
 - Wood
 ## Code:
-!Arduino code(https://github.com/EmperorKayobi/portfolio/blob/main/code/terminal.ino)
+[Arduino code](https://github.com/EmperorKayobi/portfolio/blob/main/code/terminal.ino)
 
 # AI powered Reflow Oven
 References:
