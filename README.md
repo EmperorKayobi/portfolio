@@ -26,7 +26,9 @@ The status of the user is changed to online and his uptime is counted. The goal 
 [Arduino code](https://github.com/EmperorKayobi/portfolio/blob/main/code/terminal.ino)
 
 # Alpha Shield
-
+![](https://github.com/EmperorKayobi/portfolio/blob/main/images/AlphaShield.PNG)
+## How it works:
+Alpha Shield is a IOT gagdet planned to be available on kickstarter in april 2021 due to legal reasons.
 
 # AI powered Reflow Oven
 References: 
