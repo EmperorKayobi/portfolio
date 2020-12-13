@@ -12,11 +12,12 @@ Regularly updated.
 # Makerspace Terminal
 ![](https://github.com/EmperorKayobi/portfolio/blob/main/images/borne.jpg) 
 
-# Hardware: 
+## Hardware: 
 - Arduino
 - Raspberry pi
 - Rfid module
-# Code:
+- Wood
+## Code:
 ![](https://github.com/EmperorKayobi/portfolio/blob/main/code/terminal.ino)
 
 # AI powered Reflow Oven
