@@ -2,9 +2,9 @@
 A list of all my project.
 Regularly updated.
  # Overview
-- [Makerspace Terminal](https://github.com/EmperorKayobi/portfolio#Makerspace Terminal)
-- [Alpha Shield](https://github.com/EmperorKayobi/portfolio#Alpha Shield)
-- [AI powered Reflow Oven](https://github.com/EmperorKayobi/portfolio#AI powered Reflow Oven)
+- [Makerspace Terminal](https://github.com/EmperorKayobi/portfolio#MakerspaceTerminal)
+- [Alpha Shield](https://github.com/EmperorKayobi/portfolio#AlphaShield)
+- [AI powered Reflow Oven](https://github.com/EmperorKayobi/portfolio#AIpoweredReflowOven)
 
 # News
 ```
