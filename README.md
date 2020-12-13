@@ -9,7 +9,7 @@ Regularly updated.
 # News
 ```
  13/12/20
- Started a new AI powered PCB reflow oven projects. More details soon.
+ Started a new PCB reflow oven projects. More details soon.
 ```
 # Makerspace Terminal
 ![](https://github.com/EmperorKayobi/portfolio/blob/main/images/borne.jpg) 
