@@ -4,14 +4,15 @@ Regularly updated.
  # Overview
 - [Makerspace Log-In Terminal](https://github.com/EmperorKayobi/portfolio#Log-InTerminal)
 
-
+# News
+```
+ 13/12/20
+ Started a new AI powered PCB refolw oven project. More details soon.
+```
 # Log-In Terminal
 
 
-# News
-```
- 
-```
+
 # Roadmap
 - [x] 01/07/20 | Draft first concrete definition of project.
 - [x] 07/07/20 | Finalise definition of project
