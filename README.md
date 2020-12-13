@@ -2,7 +2,7 @@
 A list of all my project.
 Regularly updated.
  # Overview
-- [Makerspace Log-In Terminal](https://github.com/EmperorKayobi/portfolio#Log-In Terminal)
+- [Makerspace Terminal](https://github.com/EmperorKayobi/portfolio#Makerspace Terminal)
 
 # News
 ```
