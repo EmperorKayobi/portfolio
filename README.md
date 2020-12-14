@@ -35,7 +35,10 @@ Build a 16 bit computer using only ttl logic and breadbords. Project currently p
 - [Memory Address Register](https://github.com/EmperorKayobi/portfolio/blob/main/images/Memory%20address%20register.png)
 - [Arithmetic Logic Unit](https://github.com/EmperorKayobi/portfolio/blob/main/images/Alu.png)
 - [Output](https://github.com/EmperorKayobi/portfolio/blob/main/images/Output.pn)
--
+- [Register A](https://github.com/EmperorKayobi/portfolio/blob/main/images/Register-A.png)
+- [Register B](https://github.com/EmperorKayobi/portfolio/blob/main/images/Register-B.png)
+- [Register C](https://github.com/EmperorKayobi/portfolio/blob/main/images/Register-C.png)
+- []()
 
 # Alpha Shield
 ![](https://github.com/EmperorKayobi/portfolio/blob/main/images/AlphaShield.PNG)
