@@ -47,6 +47,8 @@ Build a 16 bit computer using only ttl logic and breadbords. Project currently p
 ![](https://github.com/EmperorKayobi/portfolio/blob/main/images/AlphaShield.PNG)
 ## Description:
 Alpha Shield is a IOT gagdet planned to be available on kickstarter in april 2021 due to legal reasons.
+The circuitry on this device is more complex due to high voltage utilization.
+Solidworks is used to make the shell.
 
 # Reflow Oven
 References: 
