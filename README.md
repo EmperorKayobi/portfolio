@@ -30,10 +30,12 @@ The status of the user is changed to online and his uptime is counted. The goal 
 # TTL Logic based 16 bit computer
 ![]
 ## Description:
-Build a 16 bit computer using only ttl logic and breadbords.
+Build a 16 bit computer using only ttl logic and breadbords. Project currently postponed due to covid.
 ### Schematics:
+- [Memory Address Register](https://github.com/EmperorKayobi/portfolio/blob/main/images/Memory%20address%20register.png)
+- [Arithmetic Logic Unit](https://github.com/EmperorKayobi/portfolio/blob/main/images/Alu.png)
 -
-
+-
 
 # Alpha Shield
 ![](https://github.com/EmperorKayobi/portfolio/blob/main/images/AlphaShield.PNG)
