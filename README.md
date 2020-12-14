@@ -16,7 +16,7 @@ Regularly updated.
 ![](https://github.com/EmperorKayobi/portfolio/blob/main/images/borne.jpg) 
 ## Description:
 Using an arduino, we send the card identification number to a webserver, which searches for the user in a mysql database.
-The status of the user is changed to online and his uptime is counted. The goal was to remplace the paper system, which is too slow.
+The status of the user is changed to online and his uptime is counted. The goal was to remplace the paper system, which was not fast enough.
 
 ### Hardware: 
 - Arduino
@@ -39,7 +39,9 @@ Build a 16 bit computer using only ttl logic and breadbords. Project currently p
 - [Register B](https://github.com/EmperorKayobi/portfolio/blob/main/images/Register-B.png)
 - [Register C](https://github.com/EmperorKayobi/portfolio/blob/main/images/Register-C.png)
 - [Clock](https://github.com/EmperorKayobi/portfolio/blob/main/images/Clock.png)
-- [Insttruction Register](https://github.com/EmperorKayobi/portfolio/blob/main/images/Instruction%20register.png)
+- [Instruction Register](https://github.com/EmperorKayobi/portfolio/blob/main/images/Instruction%20register.png)
+- [Program Counter](https://github.com/EmperorKayobi/portfolio/blob/main/images/Program%20counter.png)
+- [Random Access Memory](https://github.com/EmperorKayobi/portfolio/blob/main/images/Random%20access%20memory.png)
 
 # Alpha Shield
 ![](https://github.com/EmperorKayobi/portfolio/blob/main/images/AlphaShield.PNG)
