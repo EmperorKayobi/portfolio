@@ -26,6 +26,8 @@ The status of the user is changed to online and his uptime is counted. The goal 
 ### Code:
 [Arduino code](https://github.com/EmperorKayobi/portfolio/blob/main/code/terminal.ino)
 
+#TTL Logic based 16 bit computer
+
 # Alpha Shield
 ![](https://github.com/EmperorKayobi/portfolio/blob/main/images/AlphaShield.PNG)
 ## Description:
