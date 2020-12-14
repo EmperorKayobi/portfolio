@@ -3,8 +3,8 @@ A list of all my project.
 Regularly updated.
  # Overview
 - [Makerspace Terminal](https://github.com/EmperorKayobi/portfolio#makerspace-terminal)
-- [Alpha Shield](https://github.com/EmperorKayobi/portfolio#alpha-shield)
 - [TTL Logic based 16 bit computer](https://github.com/EmperorKayobi/portfolio#ttl-logic-based-16-bit-computer)
+- [Alpha Shield](https://github.com/EmperorKayobi/portfolio#alpha-shield)
 - [Reflow Oven](https://github.com/EmperorKayobi/portfolio#reflow-oven)
 
 # News
