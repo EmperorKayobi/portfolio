@@ -28,7 +28,7 @@ The status of the user is changed to online and his uptime is counted. The goal 
 [Arduino code](https://github.com/EmperorKayobi/portfolio/blob/main/code/terminal.ino)
 
 # TTL Logic based 16 bit computer
-![]
+![https://github.com/EmperorKayobi/portfolio/blob/main/images/Output.png]
 ## Description:
 Build a 16 bit computer using only ttl logic and breadbords. Project currently postponed due to covid.
 ### Schematics:
