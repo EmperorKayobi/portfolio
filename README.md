@@ -4,6 +4,7 @@ Regularly updated.
  # Overview
 - [Makerspace Terminal](https://github.com/EmperorKayobi/portfolio#makerspace-terminal)
 - [Alpha Shield](https://github.com/EmperorKayobi/portfolio#alpha-shield)
+- [TTL Logic based 16 bit computer](https://github.com/EmperorKayobi/portfolio#ttl-logic-based-16-bit-computer)
 - [Reflow Oven](https://github.com/EmperorKayobi/portfolio#reflow-oven)
 
 # News
@@ -26,7 +27,13 @@ The status of the user is changed to online and his uptime is counted. The goal 
 ### Code:
 [Arduino code](https://github.com/EmperorKayobi/portfolio/blob/main/code/terminal.ino)
 
-#TTL Logic based 16 bit computer
+# TTL Logic based 16 bit computer
+![]
+## Description:
+Build a 16 bit computer using only ttl logic and breadbords.
+### Schematics:
+-
+
 
 # Alpha Shield
 ![](https://github.com/EmperorKayobi/portfolio/blob/main/images/AlphaShield.PNG)
