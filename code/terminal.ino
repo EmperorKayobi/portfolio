@@ -63,7 +63,7 @@ void loop() {
   digitalWrite(8, HIGH);
   digitalWrite(10, LOW);
   Serial.println("Starting Connection ...");
-  streamer.sync("stalin",1);
+  streamer.sync("sync_sys",1);
   conn.connect(server_addr, 3306, user, password);
   Serial.println("Data & Connection ready...");
   MySQL_Cursor *cur_mem = new MySQL_Cursor(&conn);
@@ -80,7 +80,7 @@ void loop() {
   txData2 = String(mfrc522.uid.uidByte[i])}
   int txData3 = txData2.toInt();
   if (txData1 == txData3 && mfrc522.PICC_IsNewCardPresent()){
-    Serial.println("wait");
+    Serial.println("...");
     goto x3;
   }
   else{}
