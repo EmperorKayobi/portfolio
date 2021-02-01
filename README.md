@@ -61,5 +61,6 @@ References:
 
 # 1ere.lu
 ![](https://media.discordapp.net/attachments/515599143289225229/805606307062480906/unknown.png?width=714&height=365)
+## Description:
 1ere.lu is a website destined to help high school students excel in school though courses, videos and exams.
 Currently being developed, site prototype available [here](https://kayobi.engineer/)
