@@ -69,7 +69,7 @@ Currently being developed, site prototype available [here](https://kayobi.engine
 ## Description:
 Since I got introduced to AI, I trained multiple ML models.
 My goals in the short-mid term are the following:
-- Develop A Live Car Path Prediction 
+- A Live Car Path Prediction 
 - A Live Fire and Victim Recognition for Drones
 - Reflow Oven Profile Optimisation
 ## Hardware
