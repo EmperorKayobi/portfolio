@@ -78,9 +78,11 @@ My goals in the short-mid term are the following:
 - [Jetson Nano 2GB](https://developer.nvidia.com/embedded/jetson-nano-2gb-developer-kit)
 
 # Future
+## Gato
 After all the projects above, I have planned to build a live image retransmission system for the GATO (Groupe d'Appui Technologique Operationnel).
 It should send images over to the operation computer and the cloud. 
-On the other side, an independant computer able to procces and display the images onsite using ML should be developed.
+On the other side, an independant computer able to procces and display the images onsite using ML should be developed
+## Research
 Cdf Simulations are also heavely studied by myself.
 After a failed attempt to participate to jonk fuercher in 2019, a new research project will be presented in 2021. 
 It will involve, if authorized, the use of HPC computing and a prototype.
