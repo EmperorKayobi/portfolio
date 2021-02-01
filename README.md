@@ -7,6 +7,7 @@ Regularly updated.
 - [Alpha Shield](https://github.com/EmperorKayobi/portfolio#alpha-shield)
 - [Reflow Oven](https://github.com/EmperorKayobi/portfolio#reflow-oven)
 - [1ere.lu](https://github.com/EmperorKayobi/portfolio#1erelu)
+- [Ai Projects](https://github.com/EmperorKayobi/portfolio#ai-projects)
 
 # News
 ```
@@ -68,10 +69,10 @@ Currently being developed, site prototype available [here](https://kayobi.engine
 ## Description:
 Since I got introduced to AI, I trained multiple ML models.
 My goals in the short-mid term are the following:
-- Develop A Live Car Path Prediction Algo
-- A Live Fire and Victim Recognition Algo for Drones
+- Develop A Live Car Path Prediction 
+- A Live Fire and Victim Recognition for Drones
 - Reflow Oven Profile Optimisation
 ## Hardware
 - [AWS Deeplens](https://aws.amazon.com/fr/deeplens/)
-Soon:
+###Soon:
 - [Jetson Nano 2GB](https://developer.nvidia.com/embedded/jetson-nano-2gb-developer-kit)
