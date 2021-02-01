@@ -4,6 +4,7 @@ Regularly updated.
  # Overview
 - [Makerspace Terminal](https://github.com/EmperorKayobi/portfolio#makerspace-terminal)
 - [TTL Logic based 16 bit computer](https://github.com/EmperorKayobi/portfolio#ttl-logic-based-16-bit-computer)
+- [1ere.lu](https://github.com/EmperorKayobi/portfolio#1ere.lu)
 - [Alpha Shield](https://github.com/EmperorKayobi/portfolio#alpha-shield)
 - [Reflow Oven](https://github.com/EmperorKayobi/portfolio#reflow-oven)
 
@@ -51,8 +52,11 @@ The circuitry on this device is more complex due to high voltage utilization.
 Solidworks is used to make the shell.
 
 # Reflow Oven
+Parts ordered. - On Hold
 References: 
 - https://www.whizoo.com/reflowoven
 - https://www.instructables.com/Making-A-SMD-Reflow-Oven/
 
-
+# 1ere.lu
+1ere.lu is a website destined to help high school students excel in school though courses, videos and exams.
+Currently being developed, site available [here](https://kayobi.engineer/)
