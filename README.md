@@ -64,3 +64,13 @@ References:
 ## Description:
 1ere.lu is a website destined to help high school students excel in school through courses, videos and exams.
 Currently being developed, site prototype available [here](https://kayobi.engineer/)
+# AI Projects
+## Description:
+Since I got introduced to AI, I tryed trainig ML models.
+My goals in the short-mid term are the following:
+- Develop A Live Car Path Prediction Algo
+- A Live Fire and Victim Recognition Algo for Drones
+- Reflow Oven Profile Optimisation
+## Hardware
+- [AWS Deeplens](https://aws.amazon.com/fr/deeplens/)
+- Soon[Jetson Nano 2GB](https://developer.nvidia.com/embedded/jetson-nano-2gb-developer-kit)
