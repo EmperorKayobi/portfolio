@@ -71,7 +71,7 @@ void loop() {
   Serial.println(query);
   cur_mem->execute(query);
   delete cur_mem;
-  Serial.println("Data seems fine. Login complete(maybye)");
+  Serial.println("Login complete");
   x3:
   if (mfrc522.PICC_IsNewCardPresent()) {
     mfrc522.PICC_ReadCardSerial();
@@ -85,5 +85,5 @@ void loop() {
   }
   else{}
   txData1 = 0;
-  streamer.sync("stalin",0);
+  streamer.sync("sync_sys",0);
 }
