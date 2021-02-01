@@ -74,5 +74,5 @@ My goals in the short-mid term are the following:
 - Reflow Oven Profile Optimisation
 ## Hardware
 - [AWS Deeplens](https://aws.amazon.com/fr/deeplens/)
-###Soon:
+### Soon:
 - [Jetson Nano 2GB](https://developer.nvidia.com/embedded/jetson-nano-2gb-developer-kit)
