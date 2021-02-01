@@ -78,6 +78,6 @@ My goals in the short-mid term are the following:
 - [Jetson Nano 2GB](https://developer.nvidia.com/embedded/jetson-nano-2gb-developer-kit)
 
 # Future
-After all the projects above, I have planned to build a live image retransmission system for the GATO (Grouppe d'Appui Technologique Operationel).
-It should send images over to a computer and the cloud. 
+After all the projects above, I have planned to build a live image retransmission system for the GATO (Groupe d'Appui Technologique Operationel).
+It should send images over to the operation computer and the cloud. 
 On the other side, an independant computer able to procces and display the images onsite using ML should be developed.
