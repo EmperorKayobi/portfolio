@@ -1,6 +1,4 @@
 //author : Emperor_Kayobi and Jesus
-//hours of work : idk, way too much
-//special thanks to our brain for not going (totally) crazy
 /* RST/Reset   RST          9             5         D9         RESET/ICSP-5     RST
    SPI SS      SDA(SS)      10            53        D10        10               10
    SPI MOSI    MOSI         11 / ICSP-4   51        D11        ICSP-4           16
