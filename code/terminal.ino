@@ -56,7 +56,8 @@ void loop() {
     goto x1;
   }
   x2:
-  txData2 = String(mfrc522.uid.uidByte[0]) + String(mfrc522.uid.uidByte[1]) + String(mfrc522.uid.uidByte[2]) + String(mfrc522.uid.uidByte[3]) + String(mfrc522.uid.uidByte[4]) + String(mfrc522.uid.uidByte[5]) + String(mfrc522.uid.uidByte[6]) + String(mfrc522.uid.uidByte[7]) + String(mfrc522.uid.uidByte[8]) + String(mfrc522.uid.uidByte[9]);
+  for(int i=0;i<10;i++){
+  txData2 += String(mfrc522.uid.uidByte[i])}
   int txData1 = txData2.toInt();
   txData = txData2.toInt();
   digitalWrite(8, HIGH);
@@ -75,7 +76,8 @@ void loop() {
   if (mfrc522.PICC_IsNewCardPresent()) {
     mfrc522.PICC_ReadCardSerial();
   }
-  txData2 = String(mfrc522.uid.uidByte[0]) + String(mfrc522.uid.uidByte[1]) + String(mfrc522.uid.uidByte[2]) + String(mfrc522.uid.uidByte[3]) + String(mfrc522.uid.uidByte[4]) + String(mfrc522.uid.uidByte[5]) + String(mfrc522.uid.uidByte[6]) + String(mfrc522.uid.uidByte[7]) + String(mfrc522.uid.uidByte[8]) + String(mfrc522.uid.uidByte[9]);
+  for(int i=0;i<10;i++){
+  txData2 = String(mfrc522.uid.uidByte[i])}
   int txData3 = txData2.toInt();
   if (txData1 == txData3 && mfrc522.PICC_IsNewCardPresent()){
     Serial.println("wait");
