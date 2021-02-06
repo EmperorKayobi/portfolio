@@ -83,6 +83,6 @@ After all the projects above, I have planned to build a live image retransmissio
 It should send images over from drones to the operation computer and the cloud. 
 On the other side, an independant computer able to procces and display the images onsite using ML should be developed
 ## Research
-Cdf Simulations are also heavely studied by myself.
+Cfd Simulations are also heavely studied by myself.
 After a failed attempt to participate to jonk fuercher in 2019, a new research project will be presented in 2021. 
 It will involve, if authorized, the use of HPC computing and a prototype.
