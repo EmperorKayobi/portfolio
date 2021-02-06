@@ -79,6 +79,7 @@ My goals in the short-mid term are the following:
 
 # Future
 ## Gato
+![](http://geg9.lu/gato-patch.png)
 After all the projects above, I have planned to build a live image retransmission system for the GATO (Groupe d'Appui Technologique Operationnel).
 It should send images over from drones to the operation computer and the cloud. 
 On the other side, an independant computer able to procces and display the images onsite using ML should be developed
