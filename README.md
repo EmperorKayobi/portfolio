@@ -88,5 +88,5 @@ On the other side, an independant computer able to procces and display the image
 ![](https://cdn.discordapp.com/attachments/749559827667353630/770747620942413824/unknown.png)
 ###
 Cfd Simulations are also heavely studied by myself.
-After a failed attempt to participate to jonk fuercher in 2019, a new research project will be presented in 2021. 
+After a failed attempt to participate to jonk fuercher in 2019, a new research project will be presented in 2022. 
 It will involve, if authorized, the use of HPC computing and a prototype.
