@@ -11,10 +11,8 @@ Regularly updated.
 
 # News
 ```
- 01/02/21
- Started new website project.
- 13/12/20
- Started a new PCB reflow oven projects. More details soon.
+ 15/04/21
+ Joined Carbon Removal XPrice. More details soon.
 ```
 # Makerspace Terminal
 ![](https://github.com/EmperorKayobi/portfolio/blob/main/images/borne.jpg) 
@@ -60,11 +58,6 @@ References:
 - https://www.whizoo.com/reflowoven
 - https://www.instructables.com/Making-A-SMD-Reflow-Oven/
 
-# 1ere.lu
-![](https://media.discordapp.net/attachments/515599143289225229/805606307062480906/unknown.png?width=714&height=365)
-## Description:
-1ere.lu is a website destined to help high school students excel in school through courses, videos and exams.
-Currently being developed, site prototype available [here](https://kayobi.engineer/)
 # AI Projects
 ## Description:
 Since I got introduced to AI, I trained multiple ML models.
